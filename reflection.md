@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  William Cook
+Sudent Email:  kcook22@syr.edu
 
 ## Instructions
 
@@ -22,4 +22,5 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
+I learned how to create while loops and for loops. While loops would continues until a condition is no longer true, and for loop would iterate over a list or a range.
 

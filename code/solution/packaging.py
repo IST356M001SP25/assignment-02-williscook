@@ -49,7 +49,8 @@ def calc_total_units(package: list[dict]) -> int:
 
     total = 1
     for item in package:
-        total *= list(item.values())[0]
+        for value in item.values():
+            total += value
     return total
 
 def get_unit(package: list[dict]) -> str:
